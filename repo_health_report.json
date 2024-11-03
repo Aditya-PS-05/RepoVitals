@@ -1,0 +1,23 @@
+{
+  "basic_info": {
+    "name": "Aora",
+    "stars": 1,
+    "forks": 0,
+    "open_issues": 0,
+    "created_at": "2024-11-02T10:40:46Z",
+    "last_update": "2024-11-02T17:07:57Z",
+    "language": "TypeScript",
+    "has_wiki": true,
+    "has_projects": true
+  },
+  "issues_analysis": {
+    "total_issues": 0,
+    "open_issues": 0,
+    "closed_issues": 0,
+    "avg_time_to_close_days": 0
+  },
+  "commit_analysis": {
+    "total_commits": 2,
+    "commit_frequency_per_day": 2.0
+  }
+}
